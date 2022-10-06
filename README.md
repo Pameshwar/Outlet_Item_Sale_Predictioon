@@ -17,5 +17,5 @@ Suggestions: returns a list of additional suggested keywords that can be used to
 # How to Intall and execute your program
 Steps:
   1. Make Sure you have installed python version > 3.3
-  2. pip install requiremts.txt
+  2. pip install -r requiremts.txt
   3. Run : python trends.py
